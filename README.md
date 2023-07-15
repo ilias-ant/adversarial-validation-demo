@@ -19,4 +19,7 @@ docker run \
     adval:latest
 ```
 
-Jupyter notebooks will be available for review & reproduction at: http://127.0.0.1:8888/tree (*requires token*).        
+Jupyter notebooks will be available for review & reproduction at: http://127.0.0.1:8888/tree (*requires token*):
+
+- *demo-house-prices.ipynb*: where train & test datasets follow the same underlying distribution.
+- *demo-sberbank-russian-housing-market.ipynb*: where train & test datasets follow different underlying distributions.
