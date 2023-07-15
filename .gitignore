@@ -1,0 +1,9 @@
+.idea/
+.ipynb_checkpoints/
+.python-version
+/__MACOSX/
+/.venv/
+.DS_Store
+
+/data/house-prices/
+/data/sberbank-russian-housing-market/
