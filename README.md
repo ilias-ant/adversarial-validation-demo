@@ -19,4 +19,4 @@ docker run \
     adval:latest
 ```
 
-Jupyter notebooks will be available for review & reproduction at: http://127.0.0.1:8888/tree (*requires token*)        
+Jupyter notebooks will be available for review & reproduction at: http://127.0.0.1:8888/tree (*requires token*).        
